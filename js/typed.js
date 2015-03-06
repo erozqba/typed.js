@@ -403,6 +403,8 @@
         shuffle: false,
         // time before backspacing
         backDelay: 500,
+        // default dont delete all content at once
+        backFull: 0,
         // loop
         loop: false,
         // false = infinite
